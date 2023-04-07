@@ -3,7 +3,7 @@
 ## English
 
 If you have VCC installed, you can import it by doing **one of the following procedures**.
-- Click [this](https://lilxyzw.github.io/vpm-repos/redirect.html)をクリックする
+- Click [this](https://lilxyzw.github.io/vpm-repos/redirect.html)
 - Open `Setting - Packages - Add Repository` in the VCC window and add `https://lilxyzw.github.io/vpm-repos/vpm.json`
 
 To install this repository using the [VPM CLI](https://vcc.docs.vrchat.com/vpm/cli/), then open a command line and typethe following command.
