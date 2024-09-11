@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "lilxyzw",
   "id": "io.github.lilxyzw.vpm",
   "author": "lilxyzw",
@@ -17,11 +17,12 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.7.3/jp.lilxyzw.liltoon-1.7.3.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
-          }
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.3/jp.lilxyzw.liltoon-1.7.3.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "397115b7f69df4c19ae7f4afe7a80c626a9fdcaf8b2abe73a89bf34ca2b175e9"
         },
         "1.7.2": {
           "name": "jp.lilxyzw.liltoon",
@@ -34,11 +35,12 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.7.2/jp.lilxyzw.liltoon-1.7.2.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
-          }
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.2/jp.lilxyzw.liltoon-1.7.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "0cd365ee18bdf7bff8878df0107e6a6b946d8af92c32dfc985af9d816c5abaac"
         },
         "1.7.1": {
           "name": "jp.lilxyzw.liltoon",
@@ -51,11 +53,12 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.7.1/jp.lilxyzw.liltoon-1.7.1.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
-          }
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.1/jp.lilxyzw.liltoon-1.7.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "fcc5f0e3286c100ea21a442391619dc7086b659ee61b8384f302907046ba4ede"
         },
         "1.7.0": {
           "name": "jp.lilxyzw.liltoon",
@@ -68,11 +71,12 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.7.0/jp.lilxyzw.liltoon-1.7.0.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
-          }
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.7.0/jp.lilxyzw.liltoon-1.7.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "ff9f1d36cb72ef1dccfff9fc0aa84fb16efb75303d3f8a9d471f8293bd2e4b47"
         },
         "1.6.0": {
           "name": "jp.lilxyzw.liltoon",
@@ -85,11 +89,12 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.6.0/jp.lilxyzw.liltoon-1.6.0.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
-          }
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.6.0/jp.lilxyzw.liltoon-1.6.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "1cc86cb8bd5f0046ae653baa9420f0c64d3ffef1a7fbcc64f7926ed476c2dd9c"
         },
         "1.5.2": {
           "name": "jp.lilxyzw.liltoon",
@@ -102,11 +107,12 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.5.2/jp.lilxyzw.liltoon-1.5.2.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
-          }
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.2/jp.lilxyzw.liltoon-1.5.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "6b4f4a3d0a27885615ad0629a6f4c11ac3d5a2adf7c75215841f78f69411cd19"
         },
         "1.5.1": {
           "name": "jp.lilxyzw.liltoon",
@@ -119,11 +125,12 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.5.1/jp.lilxyzw.liltoon-1.5.1.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
-          }
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.1/jp.lilxyzw.liltoon-1.5.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "a2ab9d0cd682348ddfc11ee1077116d59a23b7d5bc673c9dc26f1a875d7797e7"
         },
         "1.5.0": {
           "name": "jp.lilxyzw.liltoon",
@@ -136,11 +143,12 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.5.0/jp.lilxyzw.liltoon-1.5.0.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
-          }
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.5.0/jp.lilxyzw.liltoon-1.5.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "89d4c8e97d6f26c14ac34e6d7e0a061342a74a10af551c04f58e94756ac9b96a"
         },
         "1.4.1": {
           "name": "jp.lilxyzw.liltoon",
@@ -153,11 +161,12 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.4.1/jp.lilxyzw.liltoon-1.4.1.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
-          }
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.4.1/jp.lilxyzw.liltoon-1.4.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "3421ffb59c43358968997a39ec14d2f4320f2f387158d864cdd70365ebd09f01"
         },
         "1.4.0": {
           "name": "jp.lilxyzw.liltoon",
@@ -170,11 +179,12 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.4.0/jp.lilxyzw.liltoon-1.4.0.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
-          }
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.4.0/jp.lilxyzw.liltoon-1.4.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "9f9a38e9da0c3592bfa34f73678987010523aaa22a7065058ff7a80a6b6505a0"
         },
         "1.3.7": {
           "name": "jp.lilxyzw.liltoon",
@@ -187,9 +197,9 @@
           "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
           "license": "MIT",
           "keywords": ["Toon", "Shader", "Material"],
-          "url" : "https://github.com/lilxyzw/lilToon/releases/download/1.3.7/jp.lilxyzw.liltoon-1.3.7.zip?",
-          "legacyFolders" : {
-            "Assets\\lilToon" : "05d1d116436047941ad97d1b9064ee05"
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/1.3.7/jp.lilxyzw.liltoon-1.3.7.zip",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
           }
         }
       }
@@ -203,8 +213,9 @@
           "description": "Utilities for avatar modification.",
           "unity": "2019.4",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.2.0/jp.lilxyzw.avatar-utils-1.2.0.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.2.0/jp.lilxyzw.avatar-utils-1.2.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "b655c0f875efdec92a39bf5ba2754a9f6df99f7db5214a5351c8eb2cf5674835"
         },
         "1.1.0": {
           "name": "jp.lilxyzw.avatar-utils",
@@ -213,8 +224,9 @@
           "description": "Utilities for avatar modification.",
           "unity": "2019.4",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.1.0/jp.lilxyzw.avatar-utils-1.1.0.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.1.0/jp.lilxyzw.avatar-utils-1.1.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "ca47d48d4556a70da7ef352a7406cde14b02dd0ff83b492bcc89cb8fdea99416"
         },
         "1.0.3": {
           "name": "jp.lilxyzw.avatar-utils",
@@ -223,8 +235,9 @@
           "description": "Utilities for avatar modification.",
           "unity": "2019.4",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.3/jp.lilxyzw.avatar-utils-1.0.3.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.3/jp.lilxyzw.avatar-utils-1.0.3.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "eb592767e045c1d478facc214e0469a1a43d66e62d163a9f72fbef1aeccb8aaf"
         },
         "1.0.2": {
           "name": "jp.lilxyzw.avatar-utils",
@@ -233,8 +246,9 @@
           "description": "Utilities for avatar modification.",
           "unity": "2019.4",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.2/jp.lilxyzw.avatar-utils-1.0.2.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.2/jp.lilxyzw.avatar-utils-1.0.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "ba434f815e4446df1597862055c58687565eb8bc7444b7a67ca53ae24315520e"
         },
         "1.0.1": {
           "name": "jp.lilxyzw.avatar-utils",
@@ -243,8 +257,9 @@
           "description": "Utilities for avatar modification.",
           "unity": "2019.4",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.1/jp.lilxyzw.avatar-utils-1.0.1.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.1/jp.lilxyzw.avatar-utils-1.0.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "ebd99e7b2e63c58d4663ca21c018f9f22349d667ea209569c6091333bf12ba7a"
         },
         "1.0.0": {
           "name": "jp.lilxyzw.avatar-utils",
@@ -253,8 +268,9 @@
           "description": "Utilities for avatar modification.",
           "unity": "2019.4",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.0/jp.lilxyzw.avatar-utils-1.0.0.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/1.0.0/jp.lilxyzw.avatar-utils-1.0.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "cdba63e0f558227c601e48b54932b07bae1e25239fa8c7e14183b0aeb5234772"
         }
       }
     },
@@ -267,8 +283,9 @@
           "description": "Modify avatar at build time.",
           "unity": "2019.4",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilycalInventory/releases/download/1.1.1/jp.lilxyzw.lilycalinventory-1.1.1.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilycalInventory/releases/download/1.1.1/jp.lilxyzw.lilycalinventory-1.1.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "41d620f5491b8a1da7774854ef20208a31adfc7bc2253492448148b45f706d2d"
         },
         "1.1.0": {
           "name": "jp.lilxyzw.lilycalinventory",
@@ -277,8 +294,9 @@
           "description": "Modify avatar at build time.",
           "unity": "2019.4",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilycalInventory/releases/download/1.1.0/jp.lilxyzw.lilycalinventory-1.1.0.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilycalInventory/releases/download/1.1.0/jp.lilxyzw.lilycalinventory-1.1.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "647f23d4cfad7fa6818e242956e232228b4a7f855d93a0041759a353b0f70af0"
         },
         "1.0.1": {
           "name": "jp.lilxyzw.lilycalinventory",
@@ -287,8 +305,9 @@
           "description": "Modify avatar at build time.",
           "unity": "2019.4",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilycalInventory/releases/download/1.0.1/jp.lilxyzw.lilycalinventory-1.0.1.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilycalInventory/releases/download/1.0.1/jp.lilxyzw.lilycalinventory-1.0.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "aa18426f8d7fe06c317b56240f355272c1e5c93b9dfb0c2e6fb57d9ef97dc6cb"
         },
         "1.0.0": {
           "name": "jp.lilxyzw.lilycalinventory",
@@ -297,8 +316,9 @@
           "description": "Modify avatar at build time.",
           "unity": "2019.4",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilycalInventory/releases/download/1.0.0/jp.lilxyzw.lilycalinventory-1.0.0.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilycalInventory/releases/download/1.0.0/jp.lilxyzw.lilycalinventory-1.0.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "cdb995d52ff976f7af210d4edc4d6c7ad8e38327479d5c154cd66df78180a285"
         }
       }
     },
@@ -311,8 +331,9 @@
           "description": "Extensions for Unity Editor.",
           "unity": "2022.3",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.2/jp.lilxyzw.editortoolbox-0.1.2.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.2/jp.lilxyzw.editortoolbox-0.1.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "4403341a5ccad6bd9377e8ef65267570b5052ff36d2223acc18353d64baf00a5"
         },
         "0.1.1": {
           "name": "jp.lilxyzw.editortoolbox",
@@ -321,8 +342,9 @@
           "description": "Extensions for Unity Editor.",
           "unity": "2022.3",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.1/jp.lilxyzw.editortoolbox-0.1.1.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.1/jp.lilxyzw.editortoolbox-0.1.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "6d5ed2e9579d69e0ec7364e242eddf7155e3d276d6cb3dd414fa8ac1dee92e1d"
         },
         "0.1.0": {
           "name": "jp.lilxyzw.editortoolbox",
@@ -331,8 +353,9 @@
           "description": "Extensions for Unity Editor.",
           "unity": "2022.3",
           "license": "MIT",
-          "url" : "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.0/jp.lilxyzw.editortoolbox-0.1.0.zip?",
-          "repo" : "https://lilxyzw.github.io/vpm-repos/vpm.json"
+          "url": "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.0/jp.lilxyzw.editortoolbox-0.1.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "a17253a5bb20fe89d5c199379e2543e06fccaefc24b8a302a0486ace6cf781a2"
         }
       }
     }
