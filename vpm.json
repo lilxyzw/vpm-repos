@@ -346,6 +346,17 @@
     },
     "jp.lilxyzw.editortoolbox": {
       "versions": {
+        "0.1.3": {
+          "name": "jp.lilxyzw.editortoolbox",
+          "version": "0.1.3",
+          "displayName": "lilEditorToolbox",
+          "description": "Extensions for Unity Editor.",
+          "unity": "2022.3",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilEditorToolbox/releases/download/0.1.3/jp.lilxyzw.editortoolbox-0.1.3.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "80545f3fb54ad843c2c736f4d331eeb5fa1156c6742374d698139000e55c55b8"
+        },
         "0.1.2": {
           "name": "jp.lilxyzw.editortoolbox",
           "version": "0.1.2",
