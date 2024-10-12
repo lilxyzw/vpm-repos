@@ -632,6 +632,24 @@
           "zipSHA256": "a17253a5bb20fe89d5c199379e2543e06fccaefc24b8a302a0486ace6cf781a2"
         }
       }
+    },
+    "jp.lilxyzw.ndmfmeshsimplifier": {
+      "versions": {
+        "0.2.0": {
+          "name": "jp.lilxyzw.ndmfmeshsimplifier",
+          "version": "0.2.0",
+          "displayName": "lilNDMFMeshSimplifier",
+          "description": "Simplify meshes at build time.",
+          "unity": "2022.3",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilNDMFMeshSimplifier/releases/download/0.2.0/jp.lilxyzw.ndmfmeshsimplifier-0.2.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "vpmDependencies": {
+            "nadena.dev.ndmf": "^1.5.0"
+          },
+          "zipSHA256": "48dc42f19e7ed82ba2e9bb9052e0a3d8faf0658804bb0851916bd27a82f6a38c"
+        }
+      }
     }
   }
 }
