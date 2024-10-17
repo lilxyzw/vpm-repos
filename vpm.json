@@ -359,6 +359,17 @@
     },
     "jp.lilxyzw.lilycalinventory": {
       "versions": {
+        "1.4.5": {
+          "name": "jp.lilxyzw.lilycalinventory",
+          "version": "1.4.5",
+          "displayName": "lilycalInventory",
+          "description": "Modify avatar at build time.",
+          "unity": "2022.3",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilycalInventory/releases/download/1.4.5/jp.lilxyzw.lilycalinventory-1.4.5.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "ac64d4b6a29aa121523765be18af91bbff7327241579b9234af2b7b470fc532c"
+        },
         "1.4.4": {
           "name": "jp.lilxyzw.lilycalinventory",
           "version": "1.4.4",
