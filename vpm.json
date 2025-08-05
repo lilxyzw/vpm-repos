@@ -6,6 +6,24 @@
   "packages": {
     "jp.lilxyzw.liltoon": {
       "versions": {
+        "2.1.7": {
+          "name": "jp.lilxyzw.liltoon",
+          "version": "2.1.7",
+          "displayName": "lilToon",
+          "description": "Feature-rich toon shader.",
+          "unity": "2022.3",
+          "documentationUrl": "https://lilxyzw.github.io/lilToon/",
+          "changelogUrl": "https://lilxyzw.github.io/lilToon/#/en-us/other/changelog",
+          "licensesUrl": "https://github.com/lilxyzw/lilToon/blob/master/Assets/lilToon/LICENSE",
+          "license": "MIT",
+          "keywords": ["Toon", "Shader", "Material"],
+          "url": "https://github.com/lilxyzw/lilToon/releases/download/2.1.7/jp.lilxyzw.liltoon-2.1.7.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "legacyFolders": {
+            "Assets\\lilToon": "05d1d116436047941ad97d1b9064ee05"
+          },
+          "zipSHA256": "dc97bd3d6657090ffad3824faf619b6958e33b9dd70852cccab518c5d1c0a9bf"
+        },
         "2.1.6": {
           "name": "jp.lilxyzw.liltoon",
           "version": "2.1.6",
