@@ -584,6 +584,17 @@
     },
     "jp.lilxyzw.avatar-utils": {
       "versions": {
+        "2.1.2": {
+          "name": "jp.lilxyzw.avatar-utils",
+          "version": "2.1.2",
+          "displayName": "lilAvatarUtils",
+          "description": "Utilities for avatar modification.",
+          "unity": "2022.3",
+          "license": "MIT",
+          "url": "https://github.com/lilxyzw/lilAvatarUtils/releases/download/2.1.2/jp.lilxyzw.avatar-utils-2.1.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "9bbe86140489e033733b8b1027fe114898cf9385b2f771e9bdc4f4fea6471b87"
+        },
         "2.1.1": {
           "name": "jp.lilxyzw.avatar-utils",
           "version": "2.1.1",
