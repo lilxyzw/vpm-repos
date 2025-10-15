@@ -1398,7 +1398,7 @@
           "displayName": "lilAnythingReplacer",
           "description": "Replace references at build time.",
           "unity": "2022.3",
-          "url": "https://github.com/lilxyzw/lilAnythingReplacer/releases/download/1.0.0/jp.lilxyzw.anythingreplacer-1.0.0.zip?",
+          "url": "https://github.com/lilxyzw/lilAnythingReplacer/releases/download/1.0.0/jp.lilxyzw.anythingreplacer.zip?",
           "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
           "vpmDependencies": {
             "nadena.dev.ndmf": "^1.5.0"
