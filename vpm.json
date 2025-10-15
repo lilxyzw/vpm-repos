@@ -1373,6 +1373,40 @@
         }
       }
     },
+    "jp.lilxyzw.outlinesmoother": {
+      "versions": {
+        "1.0.0": {
+          "name": "jp.lilxyzw.outlinesmoother",
+          "version": "1.0.0",
+          "displayName": "lilOutlineSmoother",
+          "description": "Smooth outline normals.",
+          "unity": "2022.3",
+          "url": "https://github.com/lilxyzw/lilOutlineSmoother/releases/download/1.0.0/jp.lilxyzw.outlinesmoother-1.0.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "vpmDependencies": {
+            "nadena.dev.ndmf": "^1.5.0"
+          },
+          "zipSHA256": "d31cd0ce236033706e6a24ec3324263e7b6b1bc2e10ecb0b4953e6b493fff401"
+        }
+      }
+    },
+    "jp.lilxyzw.anythingreplacer": {
+      "versions": {
+        "1.0.0": {
+          "name": "jp.lilxyzw.anythingreplacer",
+          "version": "1.0.0",
+          "displayName": "lilAnythingReplacer",
+          "description": "Replace references at build time.",
+          "unity": "2022.3",
+          "url": "https://github.com/lilxyzw/lilAnythingReplacer/releases/download/1.0.0/jp.lilxyzw.anythingreplacer-1.0.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "vpmDependencies": {
+            "nadena.dev.ndmf": "^1.5.0"
+          },
+          "zipSHA256": "8cc2dec44de6e37bd7a75a736f2e4e567839832e5754eaaa59b57c2aee906784"
+        }
+      }
+    },
     "jp.lilxyzw.ndmfmeshsimplifier": {
       "versions": {
         "0.3.0": {
