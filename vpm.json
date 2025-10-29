@@ -1375,6 +1375,19 @@
     },
     "jp.lilxyzw.outlinesmoother": {
       "versions": {
+        "1.0.1": {
+          "name": "jp.lilxyzw.outlinesmoother",
+          "version": "1.0.1",
+          "displayName": "lilOutlineSmoother",
+          "description": "Smooth outline normals.",
+          "unity": "2022.3",
+          "url": "https://github.com/lilxyzw/lilOutlineSmoother/releases/download/1.0.1/jp.lilxyzw.outlinesmoother-1.0.1.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "vpmDependencies": {
+            "nadena.dev.ndmf": "^1.5.0"
+          },
+          "zipSHA256": "4ee193b873a2d25bc4c3458d213ade13bf2edb5733b20385f7d743480fa2fcaa"
+        },
         "1.0.0": {
           "name": "jp.lilxyzw.outlinesmoother",
           "version": "1.0.0",
