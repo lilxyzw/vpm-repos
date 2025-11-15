@@ -1438,6 +1438,21 @@
         }
       }
     },
+    "jp.lilxyzw.lilpbr": {
+      "versions": {
+        "1.0.0": {
+          "name": "jp.lilxyzw.lilpbr",
+          "version": "1.0.0",
+          "displayName": "lilPBR",
+          "description": "PBR Shaders",
+          "unity": "2022.3",
+          "hideInEditor": false,
+          "url": "https://github.com/lilxyzw/lilPBR/releases/download/1.0.0/jp.lilxyzw.lilpbr-1.0.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "8210a2fca0f55e3a3980258ad99068efa280233e980f967a9f6263d894bdfc6b"
+        }
+      }
+    },
     "jp.lilxyzw.ndmfmeshsimplifier": {
       "versions": {
         "0.3.0": {
