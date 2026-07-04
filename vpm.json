@@ -1494,6 +1494,19 @@
     },
     "jp.lilxyzw.anythingreplacer": {
       "versions": {
+        "1.1.0": {
+          "name": "jp.lilxyzw.anythingreplacer",
+          "version": "1.1.0",
+          "displayName": "lilAnythingReplacer",
+          "description": "Replace references at build time.",
+          "unity": "2022.3",
+          "url": "https://github.com/lilxyzw/lilAnythingReplacer/releases/download/1.1.0/jp.lilxyzw.anythingreplacer-1.1.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "vpmDependencies": {
+            "nadena.dev.ndmf": "^1.5.0"
+          },
+          "zipSHA256": "b8079f97be33cb6c83514de5a4b15d98bc6a463f7b89c7dc38859a3527b9a580"
+        },
         "1.0.0": {
           "name": "jp.lilxyzw.anythingreplacer",
           "version": "1.0.0",
