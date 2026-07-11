@@ -1609,6 +1609,36 @@
           "zipSHA256": "48dc42f19e7ed82ba2e9bb9052e0a3d8faf0658804bb0851916bd27a82f6a38c"
         }
       }
+    },
+    "jp.lilxyzw.nontoon": {
+      "versions": {
+        "0.1.0": {
+          "name": "jp.lilxyzw.nontoon",
+          "version": "0.1.0",
+          "displayName": "NonToon",
+          "description": "",
+          "unity": "2022.3",
+          "hideInEditor": false,
+          "url": "https://github.com/lilxyzw/ShaderCore/releases/download/0.1.0/jp.lilxyzw.nontoon-0.1.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "e43b0477d9fd2672c27ccb22372ccf1b3dc55c76bbf1110098c7dc17d21b828e"
+        }
+      }
+    },
+    "jp.lilxyzw.shadercore": {
+      "versions": {
+        "0.1.0": {
+          "name": "jp.lilxyzw.shadercore",
+          "version": "0.1.0",
+          "displayName": "Shader Core",
+          "description": "",
+          "unity": "2022.3",
+          "hideInEditor": false,
+          "url": "https://github.com/lilxyzw/ShaderCore/releases/download/0.1.0/jp.lilxyzw.shadercore-0.1.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "85fb40545c9f7b76107e2cdaa706884720d4fb6bc380a72d26d2c6eb8690e1fa"
+        }
+      }
     }
   }
 }
