@@ -1619,9 +1619,9 @@
           "description": "",
           "unity": "2022.3",
           "hideInEditor": false,
-          "url": "https://github.com/lilxyzw/ShaderCore/releases/download/0.1.0/jp.lilxyzw.nontoon-0.1.0.zip?",
+          "url": "https://github.com/lilxyzw/NonToon/releases/download/0.1.0/jp.lilxyzw.nontoon-0.1.0.zip?",
           "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "zipSHA256": "e43b0477d9fd2672c27ccb22372ccf1b3dc55c76bbf1110098c7dc17d21b828e"
+          "zipSHA256": "a2812b1c6d29ebd6a77ffcbdceedc4e2e7cb7e0e9e25ea913e45cf4c55d20864"
         }
       }
     },
@@ -1634,9 +1634,9 @@
           "description": "",
           "unity": "2022.3",
           "hideInEditor": false,
-          "url": "https://github.com/lilxyzw/ShaderCore/releases/download/0.1.1/jp.lilxyzw.shadercore-0.1.1.zip?",
+          "url": "https://github.com/lilxyzw/Shader-Core/releases/download/0.1.1/jp.lilxyzw.shadercore-0.1.1.zip?",
           "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "zipSHA256": "c2a53b86ea09c8b1b25ac40c59f2f0094c8ce8187f5d67fc50177af0ff4f239e"
+          "zipSHA256": "df7c0e60a31cb23e28a648c3e945f59bf94037476c3f545273df6c2c8ae14077"
         },
         "0.1.0": {
           "name": "jp.lilxyzw.shadercore",
@@ -1645,9 +1645,9 @@
           "description": "",
           "unity": "2022.3",
           "hideInEditor": false,
-          "url": "https://github.com/lilxyzw/ShaderCore/releases/download/0.1.0/jp.lilxyzw.shadercore-0.1.0.zip?",
+          "url": "https://github.com/lilxyzw/Shader-Core/releases/download/0.1.0/jp.lilxyzw.shadercore-0.1.0.zip?",
           "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
-          "zipSHA256": "85fb40545c9f7b76107e2cdaa706884720d4fb6bc380a72d26d2c6eb8690e1fa"
+          "zipSHA256": "12fad6b1d4642c36ea069b5adcc0fb42194068afbce348eb85266ecb67f9abc7"
         }
       }
     }
