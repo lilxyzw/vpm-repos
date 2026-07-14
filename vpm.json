@@ -1612,6 +1612,20 @@
     },
     "jp.lilxyzw.nontoon": {
       "versions": {
+        "0.1.2": {
+          "name": "jp.lilxyzw.nontoon",
+          "version": "0.1.2",
+          "displayName": "NonToon",
+          "description": "",
+          "unity": "2022.3",
+          "hideInEditor": false,
+          "url": "https://github.com/lilxyzw/NonToon/releases/download/0.1.2/jp.lilxyzw.nontoon-0.1.2.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "vpmDependencies": {
+            "jp.lilxyzw.shadercore": "^0.1.4"
+          },
+          "zipSHA256": "7c041792dc1d2c9e32ea55cb2d7988963f0f2bff21b29cd195479042f23419b6"
+        },
         "0.1.1": {
           "name": "jp.lilxyzw.nontoon",
           "version": "0.1.1",
@@ -1641,6 +1655,17 @@
     },
     "jp.lilxyzw.shadercore": {
       "versions": {
+        "0.1.4": {
+          "name": "jp.lilxyzw.shadercore",
+          "version": "0.1.4",
+          "displayName": "Shader Core",
+          "description": "",
+          "unity": "2022.3",
+          "hideInEditor": false,
+          "url": "https://github.com/lilxyzw/Shader-Core/releases/download/0.1.4/jp.lilxyzw.shadercore-0.1.4.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "zipSHA256": "a133fe9b61f1a86727cf1a819a532cb0e5bfca86649b207d854e6813129c5054"
+        },
         "0.1.3": {
           "name": "jp.lilxyzw.shadercore",
           "version": "0.1.3",
