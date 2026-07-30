@@ -1535,6 +1535,19 @@
     },
     "jp.lilxyzw.lilemo": {
       "versions": {
+        "1.2.0": {
+          "name": "jp.lilxyzw.lilemo",
+          "version": "1.2.0",
+          "displayName": "lilEmo",
+          "description": "A non-destructive plugin for creating avatar facial expressions.",
+          "unity": "2022.3",
+          "url": "https://github.com/lilxyzw/lilEmo/releases/download/1.2.0/jp.lilxyzw.lilemo-1.2.0.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "vpmDependencies": {
+            "nadena.dev.modular-avatar": "^1.14"
+          },
+          "zipSHA256": "cec1baf596a7f15013e030061fa411bf94c4276d73614884dfcfc9822990f6c3"
+        },
         "1.1.0": {
           "name": "jp.lilxyzw.lilemo",
           "version": "1.1.0",
