@@ -1682,6 +1682,20 @@
     },
     "jp.lilxyzw.shadercore": {
       "versions": {
+        "0.1.10": {
+          "name": "jp.lilxyzw.shadercore",
+          "version": "0.1.10",
+          "displayName": "Shader Core",
+          "description": "",
+          "unity": "2022.3",
+          "hideInEditor": false,
+          "url": "https://github.com/lilxyzw/Shader-Core/releases/download/0.1.10/jp.lilxyzw.shadercore-0.1.10.zip?",
+          "repo": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "3.0.0"
+          },
+          "zipSHA256": "e0d81faf42bdf607c4c15c324e1958df3a049d1c2e898d4c47f7d29e0ed8db3b"
+        },
         "0.1.9": {
           "name": "jp.lilxyzw.shadercore",
           "version": "0.1.9",
